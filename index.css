@@ -1,0 +1,49 @@
+@import url('https://cdn.jsdelivr.net/gh/mustafazeydani/Fonts/CursedTimerULiL/CursedTimerULiL.css');
+body {
+    margin: 0;
+    text-align: center;
+    background: url("joshua-kantarges-N_7Kb4hpaoU-unsplash.jpg")
+}
+.score{
+    background: #0a0001;
+    font-size: 190px;
+    color: #F94F6D;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    font-family: Cursed Timer ULiL;
+    padding-top: 10px;
+ 
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.stats{
+    color: whitesmoke;
+    font-size: 100px
+}
+button{
+    background: transparent;
+    border: 2px solid ;
+    font-family: Cursed Timer ULiL;
+    color: #9AABD8;
+    font-size: 70px;
+    border-radius: 5px;
+
+}
+
+
+.btnReset{
+    background:url("oleksii-s-O2kqxbix4Mw-unsplash.jpg");
+    padding-top: 10px;
+    color:whitesmoke;
+    
+}
+
+
+
